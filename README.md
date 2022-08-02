@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://media.giphy.com/media/MWRiRARGbMKBnErBHX/giphy.gif) 
+![MasterHead](https://tenor.com/bPuhb.gif) 
 
 <h1 align="center">Hi 👋, It's Aditya Kumar Urmaliya</h1> 
 <h3 align="center">A passionate frontend developer from India</h3> 
