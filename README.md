@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3> 
 <h3>💫 I’m currently learning whatever comes in way</h3>
 <h3>👯 I’m looking to collaborate on on interesting projects</h3>
-<i>🧐I problem-solver with advanced supervisory</i>
+<h3><i>🧐I problem-solver with advanced supervisory</i></h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
  
