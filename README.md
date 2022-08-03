@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### <img align="right" alt="Coding" width="50" src="https://camo.githubusercontent.com/2fc968ca4c820cbc83b8d46b496a26aa43c1b410db46767540537d86a7502688/68747470733a2f2f66696c65732e6161736875746f73682e6465762f6865792e676966"> 
+OBJECTIVE⚜️
+I seek challenging opportunities where I can fully use my skills for the success of the project.
 <!--
 **Adityakumarurmaliya/Adityakumarurmaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
